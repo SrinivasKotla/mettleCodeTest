@@ -8,6 +8,10 @@ mvn install
 mvn compile
 mvn test
 ```
+Run a single test
+```
+mvn test -Dtest="UtilTest#${methodName}"
+```
 
 ## Assumptions
 Following are the assumptions I made
