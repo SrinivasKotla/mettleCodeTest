@@ -12,6 +12,7 @@ mvn test
 ## Assumptions
 Following are the assumptions I made
 
+- Input is not null
 - The input array contains integers only
 - Input numbers are within the size of integer limits
 
